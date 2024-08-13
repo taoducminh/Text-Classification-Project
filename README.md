@@ -48,7 +48,7 @@ pip install pandas numpy scikit-learn matplotlib nltk
 To use this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spam-text-classification.git
+   git clone https://github.com/taoducminh/spam-text-classification.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -79,6 +79,3 @@ The Naive Bayes classifier provides a simple yet effective solution for spam tex
 
 Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
